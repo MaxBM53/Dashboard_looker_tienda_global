@@ -16,7 +16,7 @@ El propósito de este proyecto fue diseñar un cuadro de mando (Dashboard) inter
 
 ### 1. Análisis de la Región Este (Segmento Consumidor)
 Al filtrar por la región **East** y el segmento **Consumer**, el dashboard aísla dinámicamente 299 transacciones, mostrando que los suministros de oficina lideran el volumen.
-![Región Este](./captura1.png)
+![Región Este](./Captura de pantalla 2026-06-16 172050.png)
 
 ### 2. Análisis Multiregional Combinado
 El reporte demuestra su capacidad elástica al combinar los datos de las regiones **West** y **Central** en simultáneo, consolidando un volumen de 618 registros y recalculando las tendencias temporales al instante.
