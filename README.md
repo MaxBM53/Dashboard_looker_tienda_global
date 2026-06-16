@@ -20,7 +20,7 @@ Al filtrar por la región **East** y el segmento **Consumer**, el dashboard aís
 
 ### 2. Análisis Multiregional Combinado
 El reporte demuestra su capacidad elástica al combinar los datos de las regiones **West** y **Central** en simultáneo, consolidando un volumen de 618 registros y recalculando las tendencias temporales al instante.
-![Multiregional](./captura2.png)
+![Multiregional](https://github.com/MaxBM53/Dashboard_looker_tienda_global/blob/main/Captura%20de%20pantalla%202026-06-16%20172103.png)
 
 ### 3. Filtros Avanzados de Exclusión
 Evaluación de la región **South** excluyendo los clientes corporativos corporativos, aislando con éxito 226 pedidos para analizar el comportamiento exclusivo de los demás segmentos.
