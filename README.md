@@ -24,7 +24,7 @@ El reporte demuestra su capacidad elástica al combinar los datos de las regione
 
 ### 3. Filtros Avanzados de Exclusión
 Evaluación de la región **South** excluyendo los clientes corporativos corporativos, aislando con éxito 226 pedidos para analizar el comportamiento exclusivo de los demás segmentos.
-![Filtro Avanzado](./captura3.png)
+![Filtro Avanzado](https://github.com/MaxBM53/Dashboard_looker_tienda_global/blob/main/Captura%20de%20pantalla%202026-06-16%20172127.png)
 
 ---
 
